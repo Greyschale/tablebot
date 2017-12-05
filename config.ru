@@ -11,7 +11,9 @@ configure do
     flip: '(╯°□°）╯︵ ┻━┻ ',
     rageflip: '(ノಠ益ಠ)ノ彡┻━┻',
     doubleflip: '┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻',
-    replace: '(ヘ･_･)ヘ┳━┳'
+    doublerageflip: '┻━┻ ︵ヽ(ಠ益ಠ)ﾉ︵﻿ ┻━┻',
+    replace: '┳━┳ノ(･_･ノ)',
+    reverseflip: 'ノ┳━┳ノ ︵ ( ৲o°o)৲'
   }
 end
 
